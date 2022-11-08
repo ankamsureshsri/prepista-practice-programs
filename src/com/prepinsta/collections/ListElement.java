@@ -8,6 +8,7 @@ public class ListElement {
 		List<String> l = Arrays.asList("suresh", "bhanu", "kalyan");
 		for (String s : l) {
 			System.out.println(s);
+			
 		}
 
 	}
